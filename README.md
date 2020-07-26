@@ -1,6 +1,6 @@
-# Installing OpenMPI, VASP, LAMMPS, QE, Siesta, etc on Ubuntu systems
-Installation steps for various materials modelling programs like VASP, LAMMPS, Quantum Espresso, Siesta, etc. Most codes deal with Density Functional Theory (DFT) and Molecular Dynamics (MD). All the steps are put in the [Wiki](https://github.com/shreeja7/vasp-installation-etc/wiki/How-to-install-VASP,-LAMMPS,-Siesta,-Quantum-Espresso-etc.) up there ☝🏽
-[<img src="https://github.com/shreeja7/vasp-installation-etc/blob/master/SharedScreenshot2.jpg" align="right">](https://github.com/shreeja7/vasp-installation-etc/wiki/How-to-install-VASP,-LAMMPS,-Siesta,-Quantum-Espresso-etc.)
+# Installing OpenMPI, VASP, LAMMPS, QE, Siesta, etc with MPI
+Installation steps for various materials modelling programs like VASP, LAMMPS, Quantum Espresso, Siesta, etc. Most codes deal with Density Functional Theory (DFT) and Molecular Dynamics (MD). All the steps are put in the [Wiki](https://github.com/shreeja7/vasp-lammps-installation-tips/wiki/How-to-install-VASP,-LAMMPS,-Siesta,-Quantum-Espresso-etc.-with-MPI) up there ☝🏽
+[<img src="https://github.com/shreeja7/vasp-installation-etc/blob/master/SharedScreenshot2.jpg" align="right">](https://github.com/shreeja7/vasp-lammps-installation-tips/wiki/How-to-install-VASP,-LAMMPS,-Siesta,-Quantum-Espresso-etc.-with-MPI)
 
 My system build:
 - Ubuntu 16.04 LTS
