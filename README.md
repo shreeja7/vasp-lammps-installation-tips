@@ -8,13 +8,14 @@ My system build:
 
 Instructions included for the following packages:
 - DFT 
-  - VASP
+  - VASP with Wannier and VTST
   - Siesta with tbtrans
   - Quantum Espresso
   - GOLLUM-2
   - Abinit
+  - Phonopy, phono3py, ShengBTE
 - Molecular Dynamics
   - LAMMPS
 - Post-processing and Visualization
-  - Pymatgen, XCrysden
+  - Pymatgen, XCrysden, Anaconda
 - More, maybe in future
